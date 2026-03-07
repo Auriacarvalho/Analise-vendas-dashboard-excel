@@ -1,4 +1,4 @@
-📊 Análise de Vendas com Dashboard Interativo em Excel
+📊Portfólio Análise de Vendas com Dashboard Interativo em Excel
 📌 Sobre o Projeto
 
 Este projeto apresenta uma análise de vendas desenvolvida no Microsoft Excel, utilizando tabelas dinâmicas, gráficos e dashboard interativo para facilitar a visualização de indicadores e apoiar a tomada de decisões.
@@ -78,5 +78,6 @@ Visualização de dados para tomada de decisão
 👩‍💻 Autor
 
 Auria Carvalho
+
 
 
