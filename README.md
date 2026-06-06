@@ -1,47 +1,43 @@
-📊Portfólio Análise de Vendas com Dashboard Interativo em Excel
-📌 Sobre o Projeto
+# 📊 Dashboard de Análise de Vendas no Microsoft Excel
 
-Este projeto apresenta uma análise de vendas desenvolvida no Microsoft Excel, utilizando tabelas dinâmicas, gráficos e dashboard interativo para facilitar a visualização de indicadores e apoiar a tomada de decisões.
+Este repositório apresenta um projeto completo de Business Intelligence desenvolvido exclusivamente no Microsoft Excel. O objetivo é demonstrar como transformar dados transacionais brutos em um painel interativo, dinâmico e visualmente atraente, focado em apoiar a tomada de decisões gerenciais e estratégicas de negócios.
 
-O objetivo é transformar dados brutos em informações claras e estratégicas, permitindo identificar padrões de vendas, desempenho de produtos e evolução ao longo do tempo.
+## 🗺️ Visão Geral do Projeto
 
-🛠 Ferramentas Utilizadas
+O projeto simula um cenário corporativo real onde dados pulverizados precisam ser unificados e resumidos para a liderança. A solução cobre todo o fluxo de inteligência de dados dentro do ecossistema do Excel: modelagem de tabelas, criação de métricas de performance e o design de um dashboard interativo (estilo *Executive View*).
 
-📗 Microsoft Excel 365
+### 🚀 Recursos e Funcionalidades do Dashboard
+* **Filtros Dinâmicos (Segmentação de Dados):** Navegação intuitiva por período (ano/mês), categorias de produtos, canais de venda ou regiões geográficas.
+* **Indicadores de Performance (KPIs):** Visualização rápida de faturamento total, volume de pedidos, ticket médio e margem de lucro.
+* **Análise de Tendências:** Gráficos de linha que demonstram a evolução do faturamento para identificar sazonalidades no mercado.
+* **Visão de Mix de Produtos:** Gráficos que destacam os itens mais vendidos e o desempenho por categoria.
 
-📊 Tabelas Dinâmicas
+---
 
-📈 Gráficos Dinâmicos
+## 🛠️ Técnicas e Recursos Utilizados
 
-🎛 Segmentação de Dados (Filtros Interativos)
+Para garantir a performance e a escalabilidade do arquivo, foram aplicadas boas práticas de desenvolvimento em Excel:
 
-📉 Dashboard Interativo
+* **Estruturação de Dados:** Organização de tabelas fato (vendas) e tabelas dimensão (clientes, produtos, calendário) para evitar redundâncias.
+* **Fórmulas e Funções Avançadas:** Uso de lógica condicional, funções de busca, referência e agregações financeiras para cálculo de métricas.
+* **Tabelas Dinâmicas (Pivot Tables):** Utilizadas como motor de cálculo de fundo para processar e resumir grandes volumes de linhas.
+* **Design & UX:** Layout limpo com paleta de cores corporativa, tipografia consistente e uso de ícones para facilitar a leitura rápida dos dados.
 
-📂 Estrutura do Projeto
+---
 
-O projeto contém:
+## 📂 Estrutura do Repositório
 
-Base de dados de vendas
+* **`/dashboard`**: Contém o arquivo final do Excel (`.xlsx`) com o painel pronto e interativo.
+* **`/data`**: Bases de dados brutas e planilhas de apoio utilizadas para a construção do projeto.
+* **`/screenshots`**: Capturas de tela do dashboard para visualização rápida no GitHub (ajuda a valorizar o portfólio visualmente).
 
-Tratamento e organização dos dados
+---
 
-Tabelas dinâmicas para análise
+## 📦 Como Visualizar o Projeto
 
-Dashboard interativo para visualização
-
-📊 Indicadores Analisados
-
-O dashboard permite analisar:
-
-💰 Total de Vendas
-
-📦 Produtos mais vendidos
-
-📅 Vendas por período
-
-📈 Desempenho geral das vendas
-
-📊 Distribuição das vendas por categoria
+1. Baixe o arquivo diretamente da pasta `/dashboard` ou clone o repositório:
+```bash
+   git clone [https://github.com/Auriacarvalho/portfolio-analise-vendas.git](https://github.com/Auriacarvalho/portfolio-analise-vendas.git)
 
 📷 Visualização do Dashboard
 
@@ -51,29 +47,6 @@ O dashboard permite analisar:
 https://github.com/Auriacarvalho/projeto-de-an-lise-de-vendas-com-dashboard-em-Excel/blob/main/imagen%201%20dashbord.png.jpeg
 https://github.com/Auriacarvalho/projeto-de-an-lise-de-vendas-com-dashboard-em-Excel/blob/main/imagen%202%20dashbord.png.jpeg
 
-💡 Principais Insights
-
-A partir da análise dos dados é possível identificar:
-
-Produtos com maior volume de vendas
-
-Períodos com maior faturamento
-
-Tendências de crescimento ou queda nas vendas
-
-Produtos com maior contribuição para a receita
-
-🎯 Objetivo do Projeto
-
-Demonstrar habilidades em:
-
-Análise de dados
-
-Organização de bases de dados
-
-Criação de dashboards
-
-Visualização de dados para tomada de decisão
 
 👩‍💻 Autor
 
